@@ -1,1 +1,1 @@
-# projects and coding intro materials for observing workhop 2025
+# projects and coding intro materials for observing workshop 2025
